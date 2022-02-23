@@ -19,7 +19,7 @@ class Main {
             } else if (x < 0 && y < 0) {
                 System.out.println("3"); 
             } else if ( x > 0 && y <0) {
-                System.out.println("4");
+                System.out.println("4"); 
             }
         }
         
